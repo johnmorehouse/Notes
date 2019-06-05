@@ -6,7 +6,7 @@ This is a collection of notes related to (mostly) discrete dynamic choice but al
 
 * [Partial Equilibrium (R)](https://rawcdn.githack.com/johnmorehouse/Notes/576a86eae2c32aba414d87f2e5feb28b37644936/discrete_choice/finitehorizon_dsge.html)
 
-* [Partial Equilibrium (Julia)](https://rawcdn.githack.com/johnmorehouse/Notes/904404582b1a1feef45427ddbc83aaf4270a2af9/discrete_choice/partial_eq_julia)
+* [Partial Equilibrium (Julia)](https://rawcdn.githack.com/johnmorehouse/Notes/2dd1e2898cd709d0cf63d83a50f91d4312c6dad3/discrete_choice/partial_eq_julia.html)
 
 Note that the R version is a bit more complete as of now (with comments on the code) -- I will get to updating the Julia version eventually.
 
